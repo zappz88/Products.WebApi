@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arams\\source\\repos\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj": {}
+    "C:\\Users\\arams\\Documents\\GitHubRepos\\DotNET\\Core\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj": {}
   },
   "projects": {
     "C:\\Users\\arams\\Documents\\GitHubRepos\\DotNET\\Core\\DotNETCommon\\Common\\Common.csproj": {
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\arams\\source\\repos\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj": {
+    "C:\\Users\\arams\\Documents\\GitHubRepos\\DotNET\\Core\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arams\\source\\repos\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\arams\\Documents\\GitHubRepos\\DotNET\\Core\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj",
         "projectName": "Products.WebApi",
-        "projectPath": "C:\\Users\\arams\\source\\repos\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj",
+        "projectPath": "C:\\Users\\arams\\Documents\\GitHubRepos\\DotNET\\Core\\Products.WebApi\\Products.WebApi\\Products.WebApi.csproj",
         "packagesPath": "C:\\Users\\arams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arams\\source\\repos\\Products.WebApi\\Products.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\arams\\Documents\\GitHubRepos\\DotNET\\Core\\Products.WebApi\\Products.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
